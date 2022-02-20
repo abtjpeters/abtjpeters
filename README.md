@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jake
+- 👀 I’m interested in c#, rust, go, and code generation.  I want to make other developers lives easier.
+- 🌱 I’m currently learning integration tests, and vs code shortcuts/productivity
+- 💞️ I’m looking to collaborate on developer tools.
